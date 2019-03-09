@@ -1,0 +1,20 @@
+.container{
+    margin-top:0;
+    margin-left:5%;
+    margin-right:5%;
+    background-color:rgb(163, 241, 235);
+
+}
+
+h1{
+    font-weight:bold;
+    font-size:40px;
+    text-align:center;
+    padding:40px;
+    border:solid;
+    
+}
+
+#input{
+    float:right;
+}
